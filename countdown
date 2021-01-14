@@ -34,7 +34,7 @@ body{
 .hours {
   background: #eeeeee;
   color: #183059;
-}
+  }
 
 .minutes {
   background: #276FBF;
@@ -56,7 +56,7 @@ body{
   background:  #eeeeee;
   height: 85px;
   width: 75px;
-  left: 30%;
+left: 30%;
   top: 2%;
 }
 
@@ -92,7 +92,7 @@ body{
         <div id="days" class="numbers "> </div>days</div> 
       <div class="hours"> 
         <div  id="hours" class="numbers"> </div>hours</div> 
-      <div class="minutes"> 
+ <div class="minutes"> 
         <div  id="minutes" class="numbers"> </div>minutes</div> 
       <div   class="seconds"> 
         <div id="seconds" class="numbers"> </div>seconds</div> 
